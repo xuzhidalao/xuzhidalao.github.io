@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Welcome to Ruyi Liu's Homepage
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 

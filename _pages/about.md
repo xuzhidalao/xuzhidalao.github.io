@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=''> Lecturer, School of Math & Stats, University of New South Wales</a>.
+subtitle: <a href='#'> Lecturer, School of Math & Stats, University of New South Wales</a>.
 
 profile:
   align: right

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=''> Lecturer, School of Math & Stats, University of New South Wales</a>.
+subtitle: <a href=''> Lecturer, School of Math & Stats, UNSW</a>.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Room 2072</p>
     <p>The Anita B. Lawrence Centre </p>
-    <p>Kensington, NSW 2033</p>
+  
     
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Welcome to Ruyi Liu's Homepage
+title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.unsw.edu.au/science/our-schools/maths'>School of Math & Stats, UNSW</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right

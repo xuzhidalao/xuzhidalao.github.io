@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unsw.edu.au/science/our-schools/maths'>School of Math & Stats, UNSW</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.unsw.edu.au/science/our-schools/maths'> School of Math & Stats, UNSW</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right

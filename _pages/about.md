@@ -1,13 +1,13 @@
 ---
 layout: about
-title: homepage
+title: about
 permalink: /
-subtitle: <p>School of Mathematics and Statistics</p> <p>University of New South Wales</p>
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: true  # crops the image to make it circular
+  image_circular: false  # crops the image to make it circular
   more_info: >
     <p>room 2072</p>
     <p> Anita B. Lawrence Centre (H13 building)</p>
@@ -26,3 +26,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<p>School of Mathematics and Statistics</p> 
+<p>University of New South Wales</p>

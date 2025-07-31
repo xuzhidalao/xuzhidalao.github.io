@@ -2,7 +2,7 @@
 layout: about
 title: homepage
 permalink: /
-subtitle: /
+subtitle: Lecturer
 
 profile:
   align: right

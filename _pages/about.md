@@ -6,7 +6,7 @@ subtitle: <a href='#'> Lecturer </a>.
 
 profile:
   align: left
-  image: prof_pic.jpg {width="150" height="280"}
+  image: prof_pic.jpg 
   image_circular: false  # crops the image to make it circular
   more_info: >
     <p>room 2072</p>

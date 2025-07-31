@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>room 2072</p>
     <p> Anita B. Lawrence Centre (H13 building)</p>
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

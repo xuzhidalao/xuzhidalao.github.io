@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Ruyi Liu-Homepage # the website title (if blank, full name will be used instead)
 first_name: Ruyi
-last_name: Liu (刘如一)
+last_name: Liu
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

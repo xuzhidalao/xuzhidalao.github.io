@@ -2,7 +2,7 @@
 layout: about
 title: homepage
 permalink: /
-subtitle: <a href='#'>Lecturer</a>. Address. Contacts. Motto. Etc.
+subtitle: /
 
 profile:
   align: center

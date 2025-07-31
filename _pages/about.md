@@ -28,3 +28,11 @@ latest_posts:
 
 <p>School of Mathematics and Statistics</p> 
 <p>University of New South Wales</p>
+
+
+<style>
+  .about-profile img {
+    width: 200px;
+    height: auto;
+  }
+</style>

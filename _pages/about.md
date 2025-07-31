@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Lecturer </a>. 
+subtitle: <a href='#'> Lecturer </a>
 
 profile:
   align: left
